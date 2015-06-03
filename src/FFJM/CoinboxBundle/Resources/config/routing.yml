@@ -1,0 +1,3 @@
+ffjm_coinbox_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: FFJMCoinboxBundle:Default:index }
