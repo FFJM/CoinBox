@@ -972,17 +972,16 @@
         },
         {
             "name": "incenteev/composer-parameter-handler",
-            "version": "v2.1.0",
-            "target-dir": "Incenteev/ParameterHandler",
+            "version": "v2.1.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Incenteev/ParameterHandler.git",
-                "reference": "143272a0a09c62616a3c8011fc165a10c6b35241"
+                "reference": "84a205fe80a46101607bafbc423019527893ddd0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Incenteev/ParameterHandler/zipball/143272a0a09c62616a3c8011fc165a10c6b35241",
-                "reference": "143272a0a09c62616a3c8011fc165a10c6b35241",
+                "url": "https://api.github.com/repos/Incenteev/ParameterHandler/zipball/84a205fe80a46101607bafbc423019527893ddd0",
+                "reference": "84a205fe80a46101607bafbc423019527893ddd0",
                 "shasum": ""
             },
             "require": {
@@ -1001,8 +1000,8 @@
                 }
             },
             "autoload": {
-                "psr-0": {
-                    "Incenteev\\ParameterHandler": ""
+                "psr-4": {
+                    "Incenteev\\ParameterHandler\\": ""
                 }
             },
             "notification-url": "https://packagist.org/downloads/",
@@ -1020,7 +1019,7 @@
             "keywords": [
                 "parameters management"
             ],
-            "time": "2013-12-07 10:10:39"
+            "time": "2015-06-03 08:27:03"
         },
         {
             "name": "jdorn/sql-formatter",
@@ -1259,17 +1258,17 @@
         },
         {
             "name": "sensio/distribution-bundle",
-            "version": "v3.0.28",
+            "version": "v3.0.29",
             "target-dir": "Sensio/Bundle/DistributionBundle",
             "source": {
                 "type": "git",
                 "url": "https://github.com/sensiolabs/SensioDistributionBundle.git",
-                "reference": "8175618b07793b9d43c3be931f3d8d4c14c9e866"
+                "reference": "12e0f5410c7893c297a0a73fd0949d9d48da1e5b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sensiolabs/SensioDistributionBundle/zipball/8175618b07793b9d43c3be931f3d8d4c14c9e866",
-                "reference": "8175618b07793b9d43c3be931f3d8d4c14c9e866",
+                "url": "https://api.github.com/repos/sensiolabs/SensioDistributionBundle/zipball/12e0f5410c7893c297a0a73fd0949d9d48da1e5b",
+                "reference": "12e0f5410c7893c297a0a73fd0949d9d48da1e5b",
                 "shasum": ""
             },
             "require": {
@@ -1315,7 +1314,7 @@
                 "configuration",
                 "distribution"
             ],
-            "time": "2015-06-01 15:04:20"
+            "time": "2015-06-04 13:44:14"
         },
         {
             "name": "sensio/framework-extra-bundle",
